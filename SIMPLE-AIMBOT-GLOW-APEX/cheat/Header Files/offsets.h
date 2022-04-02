@@ -5,7 +5,7 @@
 #define OFFSET_ENTITYLIST 0x19ed718   //cl_entitylist
 #define OFFSET_LOCAL_ENT 0x1d9e418    //LocalPlayer
 #define OFFSET_ORIGIN 0x014c          //m_vecAbsOrigin
-#define OFFSET_BONES 0xF38            //m_bConstrainBetweenEndpoints
+#define OFFSET_BONES 0x0F38            //m_bConstrainBetweenEndpoints
 #define OFFSET_NAME	0x589                 //m_iName
 
 #define OFFSET_MATRIX 0x11a210
